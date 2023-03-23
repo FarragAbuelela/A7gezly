@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraduationProjectDemo", "GraduationProjectDemo\GraduationProjectDemo.csproj", "{08C5B2B3-1773-4C33-8CEE-7A4E553AE4E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7agz.api", "7agz.api\7agz.api.csproj", "{904A63FA-5A1F-433B-A7B3-CDEB2E5EA011}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7agz.EF", "7agz.EF\7agz.EF.csproj", "{97851F03-3CAF-42B5-80FA-BA71788A4397}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7agz.Core", "7agz.Core\7agz.Core.csproj", "{B2F835C5-5497-4254-B182-FC2C9BB5C71D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C5B2B3-1773-4C33-8CEE-7A4E553AE4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C5B2B3-1773-4C33-8CEE-7A4E553AE4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C5B2B3-1773-4C33-8CEE-7A4E553AE4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C5B2B3-1773-4C33-8CEE-7A4E553AE4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904A63FA-5A1F-433B-A7B3-CDEB2E5EA011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904A63FA-5A1F-433B-A7B3-CDEB2E5EA011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904A63FA-5A1F-433B-A7B3-CDEB2E5EA011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904A63FA-5A1F-433B-A7B3-CDEB2E5EA011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97851F03-3CAF-42B5-80FA-BA71788A4397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97851F03-3CAF-42B5-80FA-BA71788A4397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97851F03-3CAF-42B5-80FA-BA71788A4397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97851F03-3CAF-42B5-80FA-BA71788A4397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2F835C5-5497-4254-B182-FC2C9BB5C71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F835C5-5497-4254-B182-FC2C9BB5C71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F835C5-5497-4254-B182-FC2C9BB5C71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F835C5-5497-4254-B182-FC2C9BB5C71D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FA428B1-DF98-4A54-8025-8ED453642DCF}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/yfarrag
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = 7agz.api\\7agz.api.csproj
+		SccProjectName1 = 7agz.api
+		SccLocalPath1 = 7agz.api
+		SccProjectUniqueName2 = 7agz.EF\\7agz.EF.csproj
+		SccProjectName2 = 7agz.EF
+		SccLocalPath2 = 7agz.EF
+		SccProjectUniqueName3 = GraduationProjectDemo\\GraduationProjectDemo.csproj
+		SccProjectName3 = GraduationProjectDemo
+		SccLocalPath3 = GraduationProjectDemo
+		SccProjectUniqueName4 = 7agz.Core\\7agz.Core.csproj
+		SccProjectName4 = 7agz.Core
+		SccLocalPath4 = 7agz.Core
+	EndGlobalSection
+EndGlobal

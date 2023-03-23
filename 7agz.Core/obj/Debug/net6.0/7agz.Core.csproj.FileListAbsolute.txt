@@ -1,0 +1,12 @@
+G:\AzureDevOps\Graduation Project\7agz.Core\bin\Debug\net6.0\7agz.Core.deps.json
+G:\AzureDevOps\Graduation Project\7agz.Core\bin\Debug\net6.0\7agz.Core.dll
+G:\AzureDevOps\Graduation Project\7agz.Core\bin\Debug\net6.0\7agz.Core.pdb
+G:\AzureDevOps\Graduation Project\7agz.Core\obj\Debug\net6.0\7agz.Core.csproj.AssemblyReference.cache
+G:\AzureDevOps\Graduation Project\7agz.Core\obj\Debug\net6.0\7agz.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\AzureDevOps\Graduation Project\7agz.Core\obj\Debug\net6.0\7agz.Core.AssemblyInfoInputs.cache
+G:\AzureDevOps\Graduation Project\7agz.Core\obj\Debug\net6.0\7agz.Core.AssemblyInfo.cs
+G:\AzureDevOps\Graduation Project\7agz.Core\obj\Debug\net6.0\7agz.Core.csproj.CoreCompileInputs.cache
+G:\AzureDevOps\Graduation Project\7agz.Core\obj\Debug\net6.0\7agz.Core.dll
+G:\AzureDevOps\Graduation Project\7agz.Core\obj\Debug\net6.0\refint\7agz.Core.dll
+G:\AzureDevOps\Graduation Project\7agz.Core\obj\Debug\net6.0\7agz.Core.pdb
+G:\AzureDevOps\Graduation Project\7agz.Core\obj\Debug\net6.0\ref\7agz.Core.dll

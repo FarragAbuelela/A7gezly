@@ -1,0 +1,17 @@
+G:\AzureDevOps\Graduation Project\7agz.EF\bin\Release\net6.0\7agz.EF.deps.json
+G:\AzureDevOps\Graduation Project\7agz.EF\bin\Release\net6.0\7agz.EF.runtimeconfig.json
+G:\AzureDevOps\Graduation Project\7agz.EF\bin\Release\net6.0\7agz.EF.dll
+G:\AzureDevOps\Graduation Project\7agz.EF\bin\Release\net6.0\7agz.EF.pdb
+G:\AzureDevOps\Graduation Project\7agz.EF\bin\Release\net6.0\7agz.Core.dll
+G:\AzureDevOps\Graduation Project\7agz.EF\bin\Release\net6.0\7agz.Core.pdb
+G:\AzureDevOps\Graduation Project\7agz.EF\obj\Release\net6.0\7agz.EF.csproj.AssemblyReference.cache
+G:\AzureDevOps\Graduation Project\7agz.EF\obj\Release\net6.0\7agz.EF.GeneratedMSBuildEditorConfig.editorconfig
+G:\AzureDevOps\Graduation Project\7agz.EF\obj\Release\net6.0\7agz.EF.AssemblyInfoInputs.cache
+G:\AzureDevOps\Graduation Project\7agz.EF\obj\Release\net6.0\7agz.EF.AssemblyInfo.cs
+G:\AzureDevOps\Graduation Project\7agz.EF\obj\Release\net6.0\7agz.EF.csproj.CoreCompileInputs.cache
+G:\AzureDevOps\Graduation Project\7agz.EF\obj\Release\net6.0\7agz.EF.csproj.CopyComplete
+G:\AzureDevOps\Graduation Project\7agz.EF\obj\Release\net6.0\7agz.EF.dll
+G:\AzureDevOps\Graduation Project\7agz.EF\obj\Release\net6.0\refint\7agz.EF.dll
+G:\AzureDevOps\Graduation Project\7agz.EF\obj\Release\net6.0\7agz.EF.pdb
+G:\AzureDevOps\Graduation Project\7agz.EF\obj\Release\net6.0\7agz.EF.genruntimeconfig.cache
+G:\AzureDevOps\Graduation Project\7agz.EF\obj\Release\net6.0\ref\7agz.EF.dll

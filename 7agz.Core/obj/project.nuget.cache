@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ybxYcC5cxGI2zfcTsIn3FjS6r7K4Go066TAl7Me9palMzIjxG/ICpk1UEk/oImWpiRedaM/X2KnXwobff1bVIw==",
+  "success": true,
+  "projectFilePath": "G:\\AzureDevOps\\Graduation Project\\7agz.Core\\7agz.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farra\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.9\\microsoft.aspnetcore.jsonpatch.6.0.9.nupkg.sha512",
+    "C:\\Users\\farra\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\farra\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
